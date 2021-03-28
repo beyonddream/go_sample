@@ -1,7 +1,8 @@
 package main
 
 import "fmt"
+import "rsc.io/quote"
 
 func main() {
-        fmt.Println("This is a sample!")
+        fmt.Println(quote.Go())
 }
