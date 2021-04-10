@@ -11,7 +11,7 @@ To change the go install path to point to a directory already in the PATH:
 
 `$ go env -w GOBIN=/path/to/your/bin`
 
-Finall to install the binary, go to `hello` folder and type:  
+Finally to install the binary, go to `hello` folder and type:  
 
 `$ go install`
 
