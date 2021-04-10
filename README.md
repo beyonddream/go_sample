@@ -18,3 +18,7 @@ Finally to install the binary, go to `hello` folder and type:
 To run the hello program from any directory:  
 
 `$ hello`
+
+# Credits
+
+[Tutorial: Create a Go module](https://golang.org/doc/tutorial/create-module)
